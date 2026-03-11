@@ -24,7 +24,3 @@ Modifiez `shared/config.lua` pour adapter le script à votre serveur :
 * `Config.TarpItem` : Nom de l'item requis (ex: `vehiclecoupon`).
 * `Config.ConsumeItem` : Si `true`, l'item est supprimé après utilisation.
 * `Config.RestrictedClasses` : Liste des classes (ID) de véhicules interdites de sauvegarde.
-
----
-
-**Souhaitez-vous que je vous aide à personnaliser les couleurs du HUD ou à ajouter une fonction spécifique à la persistance ?**
