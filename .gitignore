@@ -39,3 +39,17 @@ luac.out
 *.x86_64
 *.hex
 
+# --- FiveM & Sécurité ---
+.ads/
+cache/
+__resource.lua.bkp
+*.log
+server.log
+yarn-error.log
+.env
+config.local.lua
+credentials.json
+.vscode/
+.idea/
+.DS_Store
+
